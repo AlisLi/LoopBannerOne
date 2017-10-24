@@ -58,13 +58,13 @@ public class MainActivity extends AppCompatActivity {
 
     private void getResource(){
         imageUrlList
-                .add("http://b.hiphotos.baidu.com/image/pic/item/d01373f082025aaf95bdf7e4f8edab64034f1a15.jpg");
+                .add("https://image.baidu.com/search/redirect?tn=redirect&word=j&juid=386CA8&sign=ckawwkaoco&url=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2017%2F0115%2F20170115070622404.jpg&bakfurl1=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2017%2F0115%2F20170115070622404.jpg&objurl=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1508860998201%26di%3Daa50785ee1286281f9b44f86b5bab81c%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fg.hiphotos.baidu.com%252Fimage%252Fpic%252Fitem%252Fa71ea8d3fd1f4134919093532e1f95cad1c85e73.jpg");
         imageUrlList
-                .add("http://g.hiphotos.baidu.com/image/pic/item/6159252dd42a2834da6660c459b5c9ea14cebf39.jpg");
+                .add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508861166432&di=77f933766f2bcc98453ed2aab7901b49&imgtype=0&src=http%3A%2F%2Fimg.grtn.cn%2Fmaterial%2Fnews%2Fimg%2F2017%2F05%2Fc3f53d347d3f8c268a708daa38651511.jpg");
         imageUrlList
-                .add("http://d.hiphotos.baidu.com/image/pic/item/adaf2edda3cc7cd976427f6c3901213fb80e911c.jpg");
+                .add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508861196677&di=c37497a4ecb76137ab230eeb6f69eef8&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F562c11dfa9ec8a13e689fcf0f003918fa0ecc00b.jpg");
         imageUrlList
-                .add("http://g.hiphotos.baidu.com/image/pic/item/b3119313b07eca80131de3e6932397dda1448393.jpg");
+                    .add("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2577874080,4285978287&fm=27&gp=0.jpg");
         linkUrlArray
                 .add("http://blog.csdn.net/finddreams/article/details/44301359");
         linkUrlArray
