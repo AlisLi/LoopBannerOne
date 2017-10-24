@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void getResource(){
         imageUrlList
-                .add("https://image.baidu.com/search/redirect?tn=redirect&word=j&juid=386CA8&sign=ckawwkaoco&url=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2017%2F0115%2F20170115070622404.jpg&bakfurl1=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2017%2F0115%2F20170115070622404.jpg&objurl=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1508860998201%26di%3Daa50785ee1286281f9b44f86b5bab81c%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fg.hiphotos.baidu.com%252Fimage%252Fpic%252Fitem%252Fa71ea8d3fd1f4134919093532e1f95cad1c85e73.jpg");
+                .add("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=502857140,2842748011&fm=27&gp=0.jpg");
         imageUrlList
                 .add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508861166432&di=77f933766f2bcc98453ed2aab7901b49&imgtype=0&src=http%3A%2F%2Fimg.grtn.cn%2Fmaterial%2Fnews%2Fimg%2F2017%2F05%2Fc3f53d347d3f8c268a708daa38651511.jpg");
         imageUrlList
